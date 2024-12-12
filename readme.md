@@ -1,5 +1,15 @@
 
-**Github**: https://github.com/PaulleDemon/awesome-landing-pages
+# Landing Page Template
+
+A modern, responsive landing page template built with Tailwind CSS.
+
+## Features
+
+- Responsive design
+- Modern animations and transitions
+- Brand showcase section
+- Features section
+- Clean and organized code structure
 
 ## Usage
 
